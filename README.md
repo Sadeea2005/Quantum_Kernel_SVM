@@ -72,9 +72,9 @@ Confusion matrix for the QSVM:
 ## Getting started
 
 ```bash
-   git clone https://github.com/Sadeea2005/Quantum_Kernel_SVM.git
-   cd Quantum_Kernel_SVM
-pip install qiskit qiskit-aer scikit-learn matplotlib numpy
+git clone https://github.com/Sadeea2005/Quantum_Kernel_SVM.git
+cd Quantum_Kernel_SVM
+pip install -r requirements.txt  
 jupyter notebook QML_Quantum_Kernel_Beginner_Simulator.ipynb
 ```
 
